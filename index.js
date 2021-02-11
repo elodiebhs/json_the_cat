@@ -1,0 +1,1 @@
+const { breedFetch } = require('./breedFetcher');
